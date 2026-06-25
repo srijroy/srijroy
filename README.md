@@ -41,7 +41,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
 </p>
 
 ### Machine Learning
@@ -141,6 +141,6 @@ Machine Learning model that predicts Formula 1 Top-10 finishes using historical 
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Learning every day, building one project at a time."*
+*Little better everyday*
 
 </div>
